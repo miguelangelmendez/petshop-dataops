@@ -1,0 +1,6 @@
+id_venta,fecha,producto,cantidad,precio,id_cliente
+1,2026-05-20,alimento perro 10kg,2,25000,c-101
+2,2026-05-21,juguete gato raton,1,3500,c-102
+3,2026-05-22,arena sanitaria,-1,8000,c-103
+4,2026-05-23,champu perro,1,0,c-104
+5,2026-05-24,ALIMENTO PERRO 10KG,1,25000,c-101

@@ -1,0 +1,6 @@
+2026-05-26 00:42:56,084 - INFO - iniciando el pipeline dataops...
+2026-05-26 00:42:56,093 - INFO - ingesta exitosa. filas cargadas: 5
+2026-05-26 00:42:56,097 - INFO - limpieza completada: textos estandarizados.
+2026-05-26 00:42:56,100 - WARNING - anomalia detectada en venta id 3: datos invalidos.
+2026-05-26 00:42:56,101 - WARNING - anomalia detectada en venta id 4: datos invalidos.
+2026-05-26 00:42:56,104 - INFO - carga completada con exito. archivo ventas_procesadas.csv creado.

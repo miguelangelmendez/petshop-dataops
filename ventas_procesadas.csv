@@ -1,0 +1,4 @@
+id_venta,fecha,producto,cantidad,precio,id_cliente
+1,2026-05-20,alimento perro 10kg,2,25000,c-101
+2,2026-05-21,juguete gato raton,1,3500,c-102
+5,2026-05-24,alimento perro 10kg,1,25000,c-101
