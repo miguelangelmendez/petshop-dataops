@@ -22,7 +22,7 @@ with col2:
     if os.path.exists("ventas_procesadas.csv"):
         df_proc = pd.read_csv("ventas_procesadas.csv")
         st.dataframe(df_proc, use_container_width=True)
-        st.success("¡Datos limpios y estandarizados por Docker!")
+        st.success("¡Datos limpios y estandarizados !")
     else:
         st.info("El pipeline aún no ha guardado datos limpios.")
 
